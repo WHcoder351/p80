@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    padding: 10px;
+  }
+  button {
+    padding: 10px;
+    margin-top: 20px;
+  }
+  #album1 {
+    width:300px;
+    height:300px;
+  }
